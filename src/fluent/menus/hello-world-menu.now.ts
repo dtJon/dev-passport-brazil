@@ -16,7 +16,7 @@ Record({
         title: 'Hello World',
         application: helloWorldMenu,
         link_type: 'LIST',
-        name: 'x_snc_dev_pass_b_hello_world',
+        name: 'x_736034_dev_pass_hello_world',
         hint: 'View Hello World records',
         active: true,
         order: 100,

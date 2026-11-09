@@ -97,7 +97,7 @@ declare global {
                         table: 'sys_documentation'
                         id: '002e46d31f0147a8a1bdaa8f5266bd3b'
                         key: {
-                            name: 'x_snc_dev_pass_b_hello_world'
+                            name: 'x_736034_dev_pass_hello_world'
                             element: 'task'
                             language: 'en'
                         }
@@ -128,7 +128,7 @@ declare global {
                             sys_ui_form: {
                                 id: '9270760c8cd84147a0668cf8a1e36e83'
                                 key: {
-                                    name: 'x_snc_dev_pass_b_hello_world'
+                                    name: 'x_736034_dev_pass_hello_world'
                                     view: {
                                         id: 'Default view'
                                         key: {
@@ -141,7 +141,7 @@ declare global {
                             sys_ui_section: {
                                 id: '62a04a4e941f4d5f953e7fa1162a6aae'
                                 key: {
-                                    name: 'x_snc_dev_pass_b_hello_world'
+                                    name: 'x_736034_dev_pass_hello_world'
                                     caption: 'Details'
                                     view: {
                                         id: 'Default view'
@@ -158,7 +158,7 @@ declare global {
                         table: 'sys_documentation'
                         id: '197490182f274b778f038f09802bef30'
                         key: {
-                            name: 'x_snc_dev_pass_b_hello_world'
+                            name: 'x_736034_dev_pass_hello_world'
                             element: 'NULL'
                             language: 'en'
                         }
@@ -184,7 +184,7 @@ declare global {
                         table: 'sys_dictionary'
                         id: '279984c894a1418a9d7eb3a18999e664'
                         key: {
-                            name: 'x_snc_dev_pass_b_hello_world'
+                            name: 'x_736034_dev_pass_hello_world'
                             element: 'task'
                         }
                     },
@@ -192,7 +192,7 @@ declare global {
                         table: 'sys_db_object'
                         id: '293d2420eafb4f35be69d1d99a32ef92'
                         key: {
-                            name: 'x_snc_dev_pass_b_hello_world'
+                            name: 'x_736034_dev_pass_hello_world'
                         }
                     },
                     {
@@ -208,7 +208,7 @@ declare global {
                         table: 'sys_dictionary'
                         id: '3cb684bea28243fe95d3408c7bb4367f'
                         key: {
-                            name: 'x_snc_dev_pass_b_hello_world'
+                            name: 'x_736034_dev_pass_hello_world'
                             element: 'NULL'
                         }
                     },
@@ -277,7 +277,7 @@ declare global {
                         table: 'sys_ui_section'
                         id: '62a04a4e941f4d5f953e7fa1162a6aae'
                         key: {
-                            name: 'x_snc_dev_pass_b_hello_world'
+                            name: 'x_736034_dev_pass_hello_world'
                             caption: 'Details'
                             view: {
                                 id: 'Default view'
@@ -292,7 +292,7 @@ declare global {
                         table: 'sys_documentation'
                         id: '65fd75dad9f04c1cb0ffa440894bd3e6'
                         key: {
-                            name: 'x_snc_dev_pass_b_hello_world'
+                            name: 'x_736034_dev_pass_hello_world'
                             element: 'title'
                             language: 'en'
                         }
@@ -347,7 +347,7 @@ declare global {
                             sys_ui_section: {
                                 id: '62a04a4e941f4d5f953e7fa1162a6aae'
                                 key: {
-                                    name: 'x_snc_dev_pass_b_hello_world'
+                                    name: 'x_736034_dev_pass_hello_world'
                                     caption: 'Details'
                                     view: {
                                         id: 'Default view'
@@ -375,7 +375,7 @@ declare global {
                         table: 'sys_ui_form'
                         id: '9270760c8cd84147a0668cf8a1e36e83'
                         key: {
-                            name: 'x_snc_dev_pass_b_hello_world'
+                            name: 'x_736034_dev_pass_hello_world'
                             view: {
                                 id: 'Default view'
                                 key: {
@@ -407,7 +407,7 @@ declare global {
                         table: 'sys_dictionary'
                         id: 'a90eeb677a8d432bb202931fee2f5c0d'
                         key: {
-                            name: 'x_snc_dev_pass_b_hello_world'
+                            name: 'x_736034_dev_pass_hello_world'
                             element: 'title'
                         }
                     },
@@ -444,7 +444,7 @@ declare global {
                             sys_ui_section: {
                                 id: '62a04a4e941f4d5f953e7fa1162a6aae'
                                 key: {
-                                    name: 'x_snc_dev_pass_b_hello_world'
+                                    name: 'x_736034_dev_pass_hello_world'
                                     caption: 'Details'
                                     view: {
                                         id: 'Default view'
@@ -480,7 +480,7 @@ declare global {
                         table: 'ua_table_licensing_config'
                         id: 'd36fb5be006d4d1f801fc4f9687ba11a'
                         key: {
-                            name: 'x_snc_dev_pass_b_hello_world'
+                            name: 'x_736034_dev_pass_hello_world'
                         }
                     },
                     {
@@ -496,7 +496,7 @@ declare global {
                         table: 'sys_documentation'
                         id: 'df8c2297dab54ffbb16a36e587317b9d'
                         key: {
-                            name: 'x_snc_dev_pass_b_hello_world'
+                            name: 'x_736034_dev_pass_hello_world'
                             element: 'notes'
                             language: 'en'
                         }
@@ -530,7 +530,7 @@ declare global {
                         table: 'sys_dictionary'
                         id: 'ecfef43943b34b4fa18859a01536edc1'
                         key: {
-                            name: 'x_snc_dev_pass_b_hello_world'
+                            name: 'x_736034_dev_pass_hello_world'
                             element: 'notes'
                         }
                     },

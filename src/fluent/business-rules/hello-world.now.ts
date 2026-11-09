@@ -5,7 +5,7 @@ import { rejectInactiveTask } from '../../server/business-rules/reject-inactive-
 export const helloWorldRejectsInactiveTaskRule = BusinessRule({
     $id: Now.ID['hello_world_rejects_inactive_task_rule'],
     name: 'Reject inactive Task on Hello World',
-    table: 'x_snc_dev_pass_b_hello_world',
+    table: 'x_736034_dev_pass_hello_world',
     when: 'before',
     active: true,
     action: ['insert'],
