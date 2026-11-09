@@ -27,14 +27,14 @@ export const helloWorldRequiresTitleAndTask = Test(
 
         atf.server.recordInsert({
             $id: Now.ID['insert_missing_title_and_task'],
-            table: 'x_snc_dev_pass_b_hello_world',
+            table: 'x_736034_dev_pass_hello_world',
             fieldValues: {},
             assert: 'record_not_inserted',
         })
 
         atf.server.recordInsert({
             $id: Now.ID['insert_missing_task'],
-            table: 'x_snc_dev_pass_b_hello_world',
+            table: 'x_736034_dev_pass_hello_world',
             fieldValues: {
                 title: 'Missing Task',
             },
@@ -43,7 +43,7 @@ export const helloWorldRequiresTitleAndTask = Test(
 
         atf.server.recordInsert({
             $id: Now.ID['insert_missing_title'],
-            table: 'x_snc_dev_pass_b_hello_world',
+            table: 'x_736034_dev_pass_hello_world',
             fieldValues: {
                 task: prerequisiteTask.record_id,
             },
@@ -75,7 +75,7 @@ export const helloWorldRejectsInactiveTask = Test(
 
         atf.server.recordInsert({
             $id: Now.ID['insert_hello_world_with_inactive_task'],
-            table: 'x_snc_dev_pass_b_hello_world',
+            table: 'x_736034_dev_pass_hello_world',
             fieldValues: {
                 title: 'Referencing an inactive task',
                 task: inactiveTask.first_record,

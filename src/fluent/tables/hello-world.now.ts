@@ -1,8 +1,8 @@
 import '@servicenow/sdk/global'
 import { Table, StringColumn, ReferenceColumn, Form, default_view } from '@servicenow/sdk/core'
 
-export const x_snc_dev_pass_b_hello_world = Table({
-    name: 'x_snc_dev_pass_b_hello_world',
+export const x_736034_dev_pass_hello_world = Table({
+    name: 'x_736034_dev_pass_hello_world',
     label: 'Hello World',
     display: 'title',
     schema: {
@@ -13,7 +13,7 @@ export const x_snc_dev_pass_b_hello_world = Table({
 })
 
 Form({
-    table: 'x_snc_dev_pass_b_hello_world',
+    table: 'x_736034_dev_pass_hello_world',
     view: default_view,
     sections: [
         {
